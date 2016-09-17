@@ -1,0 +1,35 @@
+.pageHeader{
+	top:0px;
+	background-color: #3b459a;
+    height: 50px;
+    color: white;
+}
+
+.pageHeader .pageHeaderIcon{
+	background-color: #FFC600;
+    width: 50px;
+    height: 50px;
+}
+.node{
+    border-bottom: 1px solid #eee;
+    height: 45px;
+    padding: 6px;
+    margin-top: 5px;
+}
+
+.node:hover{
+	background-color: #1932FF;
+}
+
+.iconcss{
+	margin : 5px;
+}
+
+.sideNav{
+	position: absolute;
+    z-index: 1;
+    background-color: #B28B00;
+    width: 200px;
+    height: 756px;
+    top: 0px;
+}
